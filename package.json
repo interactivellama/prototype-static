@@ -6,14 +6,12 @@
   "dependencies": {
     "bootstrap": "3.x",
     "fuelux": "3.x",
+    "grunt": "0.x",
     "jquery": "2.x",
-    "moment": "2.x"
-  },
-  "description": "Static Prototype",
-  "devDependencies": {
+    "moment": "2.x",
+
     "bower": "1.x",
     "connect": "3.x",
-    "grunt": "0.x",
     "grunt-banner": "0.x",
     "grunt-cli": "0.x",
     "grunt-contrib-clean": "0.x",
@@ -30,6 +28,10 @@
     "load-grunt-config": "0.x",
     "load-grunt-tasks": "3.x",
     "serve-static": ">=1.7.2"
+  },
+  "description": "Static Prototype",
+  "devDependencies": {
+
   },
   "engines": {
     "node": "0.14.x"
