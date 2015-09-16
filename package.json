@@ -6,7 +6,6 @@
   "dependencies": {
     "bootstrap": "3.x",
     "fuelux": "3.x",
-    "fuelux-mctheme": "1.x",
     "jquery": "2.x",
     "moment": "2.x"
   },
