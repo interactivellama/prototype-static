@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "3.x",
+    "moment": "2.x",
+    "fuelux": "3.x"
+  },
+  "devDependencies": {},
+  "ignore": [
+    "**/.*",
+    "_*",
+    "*.yml",
+    "/examples",
+    "Gruntfile.js",
+    "/Procfile",
+    "/www"
+  ],
+  "keywords": [
+    "front-end",
+    "web"
+  ],
+  "name": "prototype-static"
+}

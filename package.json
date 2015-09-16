@@ -1,0 +1,54 @@
+{
+  "author": {
+    "email": "sjames@salesforce.com",
+    "name": "Salesforce"
+  },
+  "dependencies": {
+    "bootstrap": "3.x",
+    "fuelux": "3.x",
+    "fuelux-mctheme": "1.x",
+    "jquery": "2.x",
+    "moment": "2.x"
+  },
+  "description": "Static Prototype",
+  "devDependencies": {
+    "bower": "1.x",
+    "connect": "3.x",
+    "grunt": "0.x",
+    "grunt-banner": "0.x",
+    "grunt-cli": "0.x",
+    "grunt-contrib-clean": "0.x",
+    "grunt-contrib-compress": "0.x",
+    "grunt-contrib-concat": "0.x",
+    "grunt-contrib-connect": "0.x",
+    "grunt-contrib-copy": "0.x",
+    "grunt-contrib-jshint": "0.x",
+    "grunt-contrib-less": "1.x",
+    "grunt-contrib-uglify": "0.x",
+    "grunt-contrib-watch": "0.x",
+    "grunt-html": "^5.0.0",
+    "grunt-jsbeautifier": "0.x",
+    "load-grunt-config": "0.x",
+    "load-grunt-tasks": "3.x",
+    "serve-static": ">=1.7.2"
+  },
+  "engines": {
+    "node": "0.14.x"
+  },
+  "license": {
+    "type": "BSD-3-Clause",
+    "url": "https://github.com/ExactTarget/fuelux/blob/master/LICENSE"
+  },
+  "name": "prototype-static",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/interactivellama/prototype-static.git"
+  },
+  "scripts": {
+    "main": "www/server.js",
+    "start": "grunt serve"
+  },
+  "title": "Static Prototype",
+  "version": "0.0.1"
+}
